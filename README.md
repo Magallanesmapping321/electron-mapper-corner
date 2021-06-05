@@ -46,4 +46,5 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 
 ## Credits
 zdrwiiu, for making the electron app
+
 Myself (MagallanesMapping321), for making mappercorner
